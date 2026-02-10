@@ -39,21 +39,21 @@ Steps performed using Python:
 - **Top Customers:** **Aibox Company** — top revenue (~$3.5M) and orders (139) 
 
 ### Dashboard Visualization
-1. **Navigation Page**
-	 <img width="1310" height="741" alt="Nav" src="https://github.com/user-attachments/assets/97e3da74-80a1-4e96-b94b-643ee9fb97b6" />
-
-2. **Overview** — Overview KPIs (Total Revenue, Total Profit, Sales Trends, Profit Margin, Return over Investment (ROI), etc.)
-	 <img width="1306" height="737" alt="Overview" src="https://github.com/user-attachments/assets/7eabbe6a-2fd5-4de1-ab12-2d911110720a" />
 	
-3. **Product** — Top products, Cost to Profit Ratio, Total Units Sold, Total Orders
-	 <img width="1310" height="740" alt="Products" src="https://github.com/user-attachments/assets/47b00212-9e5f-4e82-a0d9-e927c4b4d6fa" />
+1. **Overview** — Overview KPIs (Total Revenue, Total Profit, Sales Trends, Profit Margin, Return over Investment (ROI), etc.)
+	 <img width="1162" height="650" alt="Screenshot 2026-02-10 at 5 10 14 PM" src="https://github.com/user-attachments/assets/7a2782e7-4ac7-45d8-9323-ce69f5d9e76a" />
 
-4. **Customers** — Top Customers, Total Customers, Total Units Sold, Total Orders, Average Orders per Customer
-	 <img width="1305" height="737" alt="Customers" src="https://github.com/user-attachments/assets/4a6c2167-96c8-4bce-83bb-3016f88dadb1" />
+2. **Product** — Top products, Cost to Profit Ratio, Total Units Sold, Total Orders
+	 <img width="1160" height="655" alt="Screenshot 2026-02-10 at 5 10 28 PM" src="https://github.com/user-attachments/assets/3d8b6499-7a91-4626-b02c-a22c7b06b74c" />
+
+
+3. **Customers** — Top Customers, Total Customers, Total Units Sold, Total Orders, Average Orders per Customer
+	<img width="1163" height="655" alt="Screenshot 2026-02-10 at 5 10 47 PM" src="https://github.com/user-attachments/assets/fb46f2d0-b28d-4722-88fe-1e484e98bc6a" />
 
 	
-5. **Geographics** — Geographic performance, % of Total Revenue, Number of States, Total Orders, Total Revenue
-	 <img width="1418" height="796" alt="Geographics" src="https://github.com/user-attachments/assets/73db8552-ed57-47c6-bfc7-630c3d3dfa5c" />
+4. **Geographics** — Geographic performance, % of Total Revenue, Number of States, Total Orders, Total Revenue
+   <img width="1164" height="654" alt="Screenshot 2026-02-10 at 5 10 56 PM" src="https://github.com/user-attachments/assets/ec4a3be2-1659-4356-9e5b-7c50e007a42a" />
+
 
 
 ### Recommendations
@@ -77,8 +77,9 @@ Steps performed using Python:
 
 ## 👤 Author
 **Loay Ayman**
-- **LinkedIn:** https://linkedin.com/in/loayayman
-- **Portfolio:** https://loayayman.vercel.app/
+- **LinkedIn:** https://linkedin.com/in/mohamed-ali505/
+- **Portfolio:** https://mohamed-ali.mountain-egy.site
+
 
 
 
